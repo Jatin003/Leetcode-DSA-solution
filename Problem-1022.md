@@ -9,25 +9,19 @@
 
 ```
 class Solution {
-    private:
-   int ans;
-    int dfs_sum(TreeNode* root , int ans)
-    {        
+    public:
+   
+    int sumRootToLeaf(TreeNode* root , int ans=0)
+    {
         if(root==NULL)   //base case
         { return 0; }
         
-        ans = 2*ans + root->val;        //converting the bit into decimel while transvering to top to bottom.
+        ans = 2*ans + root->val;        //as shown above this will convert the binary into decimal
         
         if(root->left == NULL && root->right == NULL)  //if this is true it represent we reach the leaf node.
         { return ans; }
        
-        return dfs_sum(root->left,ans) + dfs_sum(root->right,ans);  //dfs call 
-    }
-
-public:
-    int sumRootToLeaf(TreeNode* root)    //function that main will call (given in question)
-    {
-        return dfs_sum(root,ans);    
-    }
+        return  sumRootToLeaf(root->left,ans) + sumRootToLeaf(root->right,ans);  //dfs call
+    }  
 };
 ```
