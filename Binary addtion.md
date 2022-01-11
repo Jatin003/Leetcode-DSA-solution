@@ -6,6 +6,7 @@
 2. An optimize in which u do binary add and store it in "ans" string and return it rather then converting the whole binary string into decimal.
 <br>
 so where is the second one explained with comments :D.
+
 ```
 class Solution {
 public:
