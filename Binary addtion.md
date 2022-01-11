@@ -1,5 +1,5 @@
 
-**hyy so i have two approches to solve this one:-**
+**Hii so i have two approches to solve this one:-**
 **Question link** :-https://leetcode.com/problems/add-binary/
 
 1. Long one in which u first convert the a and b to decimal add them and convert back
