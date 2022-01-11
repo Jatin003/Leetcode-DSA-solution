@@ -1,9 +1,11 @@
-## hyy so i have two approches to solve this one:-
+
+**hyy so i have two approches to solve this one:-**
+**Question link** :-https://leetcode.com/problems/add-binary/
+
 1. Long one in which u first convert the a and b to decimal add them and convert back
 2. An optimize in which u do binary add and store it in "ans" string and return it rather then converting the whole binary string into decimal.
-*/
-// so where is the second one explained with comments :D.
-
+<br>
+so where is the second one explained with comments :D.
 ```
 class Solution {
 public:
