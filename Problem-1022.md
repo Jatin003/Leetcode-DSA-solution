@@ -3,8 +3,9 @@
 
 ◾ We are given a binary tree with all node values as 0s and 1s like 1->1->0->0 which represent the binary representation (1100).<br>
 ◾ Each path represent a number we have to find the sum of all these numbers
-<br>
-**Explanation**
+
+
+**CODE**
 
 ```
 class Solution {
