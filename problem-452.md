@@ -2,9 +2,9 @@
 **Question link:-** https://leetcode.com/problems/insert-into-a-binary-search-tree/<br>
 **Approch**
 
-**step-1** so when ever a question when i have to check for common elments in containers i always Sort them first, So sort the segements by the end.
-**step2** Put an arrow at the end of the 1-st array.
-**Step3** Now form the second one we check whether the current arrow pass through the current segment, if not add an arrow and so on so forth.
+**step-1** so when ever a question when i have to check for common elments in containers i always Sort them first, So sort the segements by the end.<br>
+**step2** Put an arrow at the end of the 1-st array.<br>
+**Step3** Now form the second one we check whether the current arrow pass through the current segment, if not add an arrow and so on so forth.<br>
 
 
 **CODE**
