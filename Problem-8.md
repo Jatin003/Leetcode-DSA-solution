@@ -1,6 +1,7 @@
 **Hii**
 **Question link:-** https://leetcode.com/problems/string-to-integer-atoi/
 
+string to integer condition are discribed in question for the algo
 
 **CODE**
 
