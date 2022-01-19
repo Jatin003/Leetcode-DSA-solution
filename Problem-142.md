@@ -1,7 +1,7 @@
 **Hii**
 **Question link:-** https://leetcode.com/problems/linked-list-cycle-ii/submissions/
 
-◾tortoise
+◾Lets call this one the Rabbit and tortoise approch :D
 
 **CODE**
 
