@@ -1,7 +1,7 @@
 **Hii**
 **Question link:-** https://leetcode.com/problems/find-the-difference/submissions/
 
-◾ [Sort] sort result are the same for s and t
+◾ [Sort] sort result are the same for s and t<br>
 ◾[Xor] xor value of all character is the same for s and t and XOR these two result will get zero.
 **CODE**
 
