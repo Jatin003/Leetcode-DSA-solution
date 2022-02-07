@@ -3,11 +3,10 @@
 
 ◾ [Sort] sort result are the same for s and t<br>
 ◾[Xor] xor value of all character is the same for s and t and XOR these two result will get zero.
+
 **CODE**
 
-
-
-approch 1
+Approch 1
 ```
  char findTheDifference(string s, string t) {
         int n = s.length();
@@ -19,7 +18,7 @@ approch 1
 };
 ```
 
-approch 2
+Approch 2
 ```
 class Solution {
 public:
