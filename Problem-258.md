@@ -1,7 +1,7 @@
 **Hii**<br>
 **Question link:-** https://leetcode.com/problems/add-digits/
 
-◾ Recursive Approch
+◾ Recursive Approch<br>
 ◾Now this is nice one any number where it's digits add to 9 is always divisible by 9. (18, 27, 36, 45, 54, 63, 72, 81, 90, etc.)<br> Therefore the 'digital root' for any number divisible by 9 is always 9<br>
 Additionally, 0 always has a digital root of 0 obviously.<br>
 So for any number that isn't 0 and isn't divisible by 9, the root will always n % 9 for a given number n.<br>
