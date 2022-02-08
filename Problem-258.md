@@ -1,5 +1,5 @@
 **Hii**<br>
-**Question link:-** https://leetcode.com/problems/find-the-difference/submissions/
+**Question link:-** https://leetcode.com/problems/add-digits/
 
 ◾ Recursive Approch
 ◾Now this is nice one any number where it's digits add to 9 is always divisible by 9. (18, 27, 36, 45, 54, 63, 72, 81, 90, etc.)<br> Therefore the 'digital root' for any number divisible by 9 is always 9<br>
