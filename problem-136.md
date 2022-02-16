@@ -1,4 +1,11 @@
+**Hii**
+**Question link:-** https://leetcode.com/problems/single-number/
 
+
+
+**CODE**
+
+```
 
 
 class Solution {
@@ -10,3 +17,6 @@ public:
 	   return ans;
     }
 };
+
+```
+
